@@ -282,7 +282,7 @@ ports:
   status: ✅
   tracking_issue: https://github.com/stripe2933/imgui-module
 - name: sebsjames-maths
-  import_statement: sm.mat, sm.vec, sm.vvec, sm.quaternion, sm.constexpr_math,...
+  import_statement: sm.*
   modules_support_date: 2026/3/27
   status: ✅
   tracking_issue: https://github.com/sebsjames/maths
